@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FakeShop-E-commerce/static/css/main.f6975714.css",
-    "main.js": "/FakeShop-E-commerce/static/js/main.62b77ea7.js",
+    "main.js": "/FakeShop-E-commerce/static/js/main.a0a5c42b.js",
     "static/media/bg5.png": "/FakeShop-E-commerce/static/media/bg5.41641a58bd937c796ddd.png",
     "static/media/about.jpg": "/FakeShop-E-commerce/static/media/about.611e994e4bddde7d60d5.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/FakeShop-E-commerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -12,10 +12,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/FakeShop-E-commerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/FakeShop-E-commerce/index.html",
     "main.f6975714.css.map": "/FakeShop-E-commerce/static/css/main.f6975714.css.map",
-    "main.62b77ea7.js.map": "/FakeShop-E-commerce/static/js/main.62b77ea7.js.map"
+    "main.a0a5c42b.js.map": "/FakeShop-E-commerce/static/js/main.a0a5c42b.js.map"
   },
   "entrypoints": [
     "static/css/main.f6975714.css",
-    "static/js/main.62b77ea7.js"
+    "static/js/main.a0a5c42b.js"
   ]
 }

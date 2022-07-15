@@ -16,7 +16,7 @@ function App() {
       <Routes>
         <Route path='FakeShop-E-commerce' element={<Home />} />
         <Route path='FakeShop-E-commerce/products' element={<Product />} />
-        <Route path='FakeShop-E-commerce/products/:id' element={<Products />} />
+        <Route path='/products/:id' element={<Products />} />
         <Route path='FakeShop-E-commerce/about' element={<About />} />
         <Route path='FakeShop-E-commerce/contact' element={<Contact />} />
         <Route path='cart' element={<Cart />} />

@@ -17,13 +17,13 @@ const Navbar = () => {
                        <Link className="nav-link active" aria-current="page" to="FakeShop-E-commerce">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/products">Product</Link>
+                            <Link className="nav-link" to="FakeShop-E-commerce/products">Product</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/about">About</Link>
+                            <Link className="nav-link" to="FakeShop-E-commerce/about">About</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/contact">Contact</Link>
+                            <Link className="nav-link" to="FakeShop-E-commerce/contact">Contact</Link>
                         </li>
                     </ul>
                     <Link className="navbar-brand mx-auto fw-bold fs-2" to="FakeShop-E-commerce">Fake<span>Shop</span></Link>

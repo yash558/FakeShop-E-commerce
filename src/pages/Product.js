@@ -73,7 +73,7 @@ const Product = () => {
                   <div className="card-body">
                     <h5 className="card-title mb-0">{product.title.substring(0, 12)}...</h5>
                     <p className="card-text lead fw-bold">${product.price}</p>
-                    <Link to={`FakeShop-E-commerce/products/${product.id}`} className="btn btn-outline-danger">Buy Now</Link>
+                    <Link to={`/products/${product.id}`} className="btn btn-outline-danger">Buy Now</Link>
                   </div>
                 </div>
 

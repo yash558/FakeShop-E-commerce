@@ -15,10 +15,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route path='FakeShop-E-commerce' element={<Home />} />
-        <Route path='products' element={<Product />} />
-        <Route path='/products/:id' element={<Products />} />
-        <Route path='about' element={<About />} />
-        <Route path='contact' element={<Contact />} />
+        <Route path='FakeShop-E-commerce/products' element={<Product />} />
+        <Route path='FakeShop-E-commerce/products/:id' element={<Products />} />
+        <Route path='FakeShop-E-commerce/about' element={<About />} />
+        <Route path='FakeShop-E-commerce/contact' element={<Contact />} />
         <Route path='cart' element={<Cart />} />
         <Route path='login' element={<Login />} />
         <Route path='signup' element={<Signup />} />
